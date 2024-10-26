@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Test post"
+categories: postgres
+---
+
+Some text with code examples:
+
+{% highlight bash %}
+#!/bin/bash
+
+echo "Hello, World!"
+{% endhighlight %}
+
+### Title
+
+###### Subtitale
+
+{% highlight sql %}
+create table t1();
+{% endhighlight %}
