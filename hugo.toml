@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://an0th3rdba.github.io/'
 languageCode = 'en-us'
 title = 'DBA Diary'
 theme = 'hugo-book'
